@@ -1,5 +1,5 @@
 # 807- 复习资料汇总
-SIGS-AI-Graduate Entrance Examination-807 Summary of Review Materials
+SIGS-AI-Graduate Entrance Examination-807 Review Materials
 
 The document for this project is based on the hard work of 寒武纪
 
